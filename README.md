@@ -1,6 +1,6 @@
 # Apps de Mikel Linares
 
-Web pública de mis apps para Android: https://mikellinares.github.io/apps/
+Web pública de mis apps para Android: https://mikellinares.github.io/
 
 - `index.html`: inicio (sobre mí, apps y contacto).
 - `gosignal/`: página de GoSignal.
